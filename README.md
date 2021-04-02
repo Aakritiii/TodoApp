@@ -1,4 +1,4 @@
 # TodoApp
-First, click the add button on the buttom right side of the page and you can see add option where you can keep a reminder of a task of anything you want. after you add you can also double click the task to update or delete the task. And lastly, there is also a delete all option in the top right side as an option incase you want to delete all the task.
+First, go to the bottom right side of the page and press the add button. You'll see an add feature where you can keep a reminder of any activity you want. After you've added a task, you can double-click it to upgrade or delete it. Finally, in case you want to delete all of the tasks, there is a delete all choice in the top right corner.
 ![](homework.png)
 ![](homework.gif)
